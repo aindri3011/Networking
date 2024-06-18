@@ -26,9 +26,9 @@ git clone https://github.com/aindri3011/Networking.git
 - Create a .env file in the root of the project directory with the following content:
 
 # MongoDB settings (.env file)
-mongo_username = your_mongodb_username
-password = your_mongodb_password
-cluster = your_mongodb_cluster
+mongo_username = your_mongodb_username, 
+password = your_mongodb_password, 
+cluster = your_mongodb_cluster, 
 key = your_database_key
 
 # Django secret key
