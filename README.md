@@ -83,7 +83,7 @@ http://localhost:8000
 
 Configuration
 # MongoDB Configuration
-The project uses MongoDB as the database. Ensure you have a MongoDB instance running and configure the .env file with your MongoDB credentials (Recommended) OR configure MongoDB file without env with credentials.
+The project uses MongoDB as the database. Ensure you have a MongoDB instance running and configure the .env file with your MongoDB credentials (Recommended) OR configure mongodb.py file without env with credentials.
 
 # Usage
 # API Endpoints
